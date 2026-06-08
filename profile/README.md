@@ -1,6 +1,7 @@
 <div align="center">
 
-# FoeDev - (구)기분이째조
+# FoeDev
+<sub>(구) 기분이째조</sub>
 
 ### 더 나은 세상을 위해 움직이는 개발 팀
 
@@ -10,40 +11,37 @@
 
 ---
 
-## 우리는
+## About us.
 
-- **세상의 불편**에서 출발합니다. 일상 속 사소한 번거로움부터 풀리지 않은 문제까지, 누군가 겪는 불편을 코드로 풉니다.
-- **주제를 가리지 않습니다.** 학업, 일상, 그 무엇이든 — 더 나은 세상을 만들 수 있다면 새로운 영역에 기꺼이 도전합니다.
-- **풀스택 전 영역**을 직접 다룹니다. 백엔드 · 프론트엔드 · AI/LLM · 인프라까지 나눠 맡아 아이디어를 동작하는 서비스로 완성합니다.
-- **만들면서 배웁니다.** 처음 써보는 기술이라도 일단 붙어보고, 끝까지 책임지고 만들어 냅니다.
+**01** &nbsp; **불편에서 출발합니다.** 사소한 번거로움부터 풀리지 않은 문제까지, 코드로 풉니다.
 
----
+**02** &nbsp; **주제를 가리지 않습니다.** 학업·일상 그 무엇이든, 더 나은 세상을 만들 수 있다면 새 영역에 도전합니다.
 
-## 팀원
+**03** &nbsp; **전 영역을 직접 다룹니다.** 백엔드·프론트엔드·AI/LLM·인프라까지, 아이디어를 서비스로 완성합니다.
 
-| 이름 | 소개 |
-|------|------|
-| **Minji** | 서강대 컴퓨터공학과 |
-| **Hyeongwoo** | 서강대 컴퓨터공학과 |
-| **Yuhwan** | 서강대 컴퓨터공학과 |
-| **Hayeon** | 서강대 컴퓨터공학과 |
+**04** &nbsp; **만들면서 배웁니다.** 처음 써보는 기술이라도 끝까지 책임지고 완성합니다.
 
 ---
 
-## 진행 중인 프로젝트
+## Our Team.
+
+**📍 Minji** | Sogang University | Computer Science & Engineering <br>
+**📍 Hyeongwoo** | Sogang University | Computer Science & Engineering <br>
+**📍 Yuhwan** | Sogang University | Computer Science & Engineering <br>
+**📍 Hayeon** | Sogang University | Computer Science & Engineering <br>
+
+---
+
+## Works in Progress.
 
 ### [서간표 (Seoganpyo)](https://github.com/gibunijjaejo/Opensource_Project)
 
-시간표 이미지 한 장으로 졸업 요건 충족 여부 · 맞춤 강의 · 강의계획서 요약까지 받는 풀스택 웹 서비스.
+시간표 이미지 한 장으로 졸업 요건 충족 여부·맞춤 강의·강의계획서 요약까지 받는 풀스택 웹 서비스.
 
-`FastAPI` · `Next.js` · `PostgreSQL` · `Redis` · `Docker` · `Prometheus/Grafana` · `LLM(OCR·요약·챗봇)`
+**Core** &nbsp; `FastAPI` `Next.js` `PostgreSQL` `Redis` `Docker`
 
-자세한 내용은 → **[프로젝트 레포지토리](https://github.com/gibunijjaejo/Opensource_Project)**
+**Infra** &nbsp; `Prometheus` `Grafana`
 
----
+**AI** &nbsp; `OCR` `LLM 요약` `챗봇`
 
-<div align="center">
-
-후회는 낭비라고 믿는 사람들이, 일단 부딪혀 만들고 있습니다.
-
-</div>
+→ [서간표 레포지토리](https://github.com/gibunijjaejo/Opensource_Project)
